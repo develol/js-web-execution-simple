@@ -1,0 +1,46 @@
+html, body {
+    background-color: #272822;
+}
+
+#editor{ 
+    position: fixed;
+    top: 48px;
+    right: 0;
+    left: 0;
+    height: calc(100% - 48px);
+}
+
+button{
+    position: fixed;
+    height: 48px;
+    border: 0;
+    font-weight: bold;
+    cursor: pointer;
+    background: #8b8c86;
+    color: #2f3129;
+    font-family: sans-serif;
+    font-size: 16px;
+    text-align: center;
+    margin: 0;
+    z-index: 9999;
+}
+
+#btnMin{
+    top: 0;
+    left: 0;
+    border-right: 1px solid #272822;
+    width: 48px;
+}
+
+#btnRun{
+    top: 0;
+    left: 48px;
+    width: calc(100% - 94px);
+}
+
+#btnMax{
+    top: 0;
+    right: 0;
+    border-left: 1px solid #272822;
+    width: 48px;
+}
