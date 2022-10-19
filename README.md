@@ -16,6 +16,6 @@
 ├─ index.html ..... Main HTML file
 ├─ css ............ Folder with CSS files
 │  └─ index.css ... Main CSS file
-├─ js ............. Folder with JavaScript files
+└─ js ............. Folder with JavaScript files
    └─ index.js .... Main JS file
 ```
