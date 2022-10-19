@@ -9,3 +9,13 @@
 ## Getting started
 1. Cloning this repository
 2. Launch **index.html**
+
+## File structure
+```
+/ ................. Root
+├─ index.html ..... Main HTML file
+├─ css ............ Folder with CSS files
+│  └─ index.css ... Main CSS file
+├─ js ............. Folder with JavaScript files
+   └─ index.js .... Main JS file
+```
