@@ -1,5 +1,5 @@
 # js-web-execution-simple
-[JS] Is a simple web-based JavaScript code executor. It is focused on mobile device browsers\
+[JavaScript] Is a simple web-based JavaScript code executor. It is focused on mobile device browsers\
 **[Example](https://deve.lol/www/jsexecution/)**
 
 **[HTML executor](https://github.com/develol/html-web-execution-simple)**
